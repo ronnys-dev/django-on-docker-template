@@ -1,4 +1,5 @@
 gunicorn
-django
+django==3.2.*
+graphene_django
 psycopg2-binary
 whitenoise
